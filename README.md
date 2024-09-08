@@ -8,6 +8,8 @@ I'm Loc Nguyen, a software engineer and a fourth-year student at Can Tho Univers
 
 All the repositories you’ll find here are the results of the fundamental knowledge I've gained through my university studies and personal projects. Feel free to explore some of my work.
 
+<p align="center">My website <a href="https://locnguyen2k2-portfolio.vercel.app/" align="center">here</a></p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![NestJS](https://img.shields.io/badge/NestJS-ea2857?style=for-the-badge&logo=NestJS&logoColor=ffffff)&nbsp;
