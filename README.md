@@ -2,7 +2,7 @@
     Hi everyone! <img src="./assets/imgs/hi.gif" align="center" width="30" style="margin-left: 10px;">
 </h1>
 
-<p align="center"><img src="./assets/imgs/coffee-background.gif" align="center" width="700" style="margin-left: 10px;"></p>
+
 
 I'm Loc Nguyen, a software engineer and a fourth-year student at Can Tho University of Technology. I'm currently seeking a backend developer position. My passion for coding drives me to continuously learn and practice, always striving to improve my skills and grow as a developer.
 
