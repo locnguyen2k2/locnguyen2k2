@@ -55,7 +55,7 @@ All the repositories you’ll find here are the results of the fundamental knowl
     </tr>
 </table>
 
-🌱 I’m currently learning and working on my exam-management-system project
+🌱 I’m currently learning and working on exam-management-system project
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-locnguyen071102@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:locnguyen071102@gmail.com)](locnguyen071102@gmail.com)
