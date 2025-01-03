@@ -5,7 +5,7 @@
 
 
 
-My name's Loc, and I am a fourth-year software engineering student at Can Tho the University Of Technology whose passionate person and excitement for web development drive me to continuously learn and practice, always striving to improve my skills.
+My name's Loc, and I am a fourth-year software engineering student at Can Tho the University Of Technology with a passion and excitement for web development which drives me to continuously learn and practice, always striving to improve my skills.
 
 All the repositories you’ll find here are the results of the fundamental knowledge I've gained through my university studies and personal projects. Feel free to explore some of my work.
 
