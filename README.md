@@ -1,10 +1,11 @@
 <h1 align="center">
-    Hi everyone! <img src="./assets/imgs/hi.gif" align="center" width="30" style="margin-left: 10px;">
+    Xin Chao! <img src="./assets/imgs/hi.gif" align="center" width="30" style="margin-left: 10px;">
+    and Welcome to my GitHub
 </h1>
 
 
 
-I'm Loc Nguyen, a software engineer and a fourth-year student at Can Tho University of Technology. I'm currently seeking a backend developer position. My passion for coding drives me to continuously learn and practice, always striving to improve my skills and grow as a developer.
+My name's Loc, and I am a fourth-year software engineering student at Can Tho the University Of Technology whose passionate person and excitement for web development drive me to continuously learn and practice, always striving to improve my skills.
 
 All the repositories you’ll find here are the results of the fundamental knowledge I've gained through my university studies and personal projects. Feel free to explore some of my work.
 
@@ -55,7 +56,7 @@ All the repositories you’ll find here are the results of the fundamental knowl
     </tr>
 </table>
 
-🌱 I’m currently learning and working on exam-management-system project
+🌱 I just finished my graduate thesis that's why I'm currently on my journey looking for a backend development position!
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-locnguyen071102@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:locnguyen071102@gmail.com)](locnguyen071102@gmail.com)
