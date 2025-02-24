@@ -56,8 +56,6 @@ All the repositories you’ll find here are the results of the fundamental knowl
     </tr>
 </table>
 
-🌱 I just finished my graduate thesis that's why I'm currently on my journey looking for a backend development position!
-
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-locnguyen071102@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:locnguyen071102@gmail.com)](locnguyen071102@gmail.com)
 ![Facebook Badge](https://img.shields.io/badge/nguyentanloc0711-blue?style=flat-roundedrectangle&logo=Facebook&logoColor=white&link=https://www.facebook.com/nguyentanloc0711)
