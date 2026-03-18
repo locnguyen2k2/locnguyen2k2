@@ -5,9 +5,9 @@
 
 
 
-I am a software engineering student at Can Tho University Of Technology. I have a lot of excitement and passion for web development which is the reason that drives me to learn and practice to striving improves my skills. I am looking for a backend developer position.
-
-All the repositories you’ll find here are the results of the fundamental knowledge I've gained through my university studies and personal projects. Feel free to explore some of my work.
+I am a Software Engineering student at Can Tho University of Technology with a strong passion for web development. I am highly motivated to continuously learn, practice, and improve my technical skills. 
+I am looking for a backend developer position.
+The repositories in this profile reflect the fundamental knowledge I have gained through my academic studies and personal projects. Feel free to explore my work.
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/locnguyen2k2/locnguyen2k2"/> 
