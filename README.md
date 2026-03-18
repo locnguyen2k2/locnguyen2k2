@@ -16,7 +16,7 @@ All the repositories you’ll find here are the results of the fundamental knowl
 </p>
 
 <p align="center">My website <a href="https://locnguyen2k2-portfolio.vercel.app/" align="center">here</a></p>
-<p align="center">Currently work on <a href="[https://locnguyen2k2-portfolio.vercel.app/](https://github.com/locnguyen2k2/ddd-nest-template/blob/main/docs/README.md)" align="center">ddd-nest-template</a></p>
+<p align="center">Currently work on <a href="https://github.com/locnguyen2k2/ddd-nest-template/blob/main/docs/README.md" align="center">ddd-nest-template</a></p>
 
 ### 🛠 &nbsp;Tech Stack
 
