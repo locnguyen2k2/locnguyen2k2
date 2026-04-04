@@ -21,6 +21,15 @@ The repositories in this profile reflect the fundamental knowledge I have gained
 ### 🛠 &nbsp;Tech Stack
 
 ![NestJS](https://img.shields.io/badge/NestJS-ea2857?style=for-the-badge&logo=NestJS&logoColor=ffffff)&nbsp;
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)&nbsp;
+![Gin](https://img.shields.io/badge/gin-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ffffff)&nbsp;
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)&nbsp;
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=ffffff)&nbsp;
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=ffffff)&nbsp;
+![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/opentelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-f6009c?style=for-the-badge&logo=graphql&logoColor=ffffff)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![ReactNative](https://img.shields.io/badge/reactnative-06bcee?style=for-the-badge&logo=react&logoColor=ffffff)&nbsp;
