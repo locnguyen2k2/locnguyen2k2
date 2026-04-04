@@ -1,11 +1,11 @@
 <h1 align="center">
     Xin Chao! <img src="./assets/imgs/hi.gif" align="center" width="30" style="margin-left: 10px;">
-    and Welcome to my GitHub
+    And welcome to my GitHub
 </h1>
 
 
 
-I am a Software Engineering student at Can Tho University of Technology with a strong passion for web development. I am highly motivated to continuously learn, practice, and improve my technical skills. 
+I am a Software Engineering student at Can Tho University of Technology with a strong passion for web development, and I have one year of experience. I am highly motivated to continuously learn, practice, and improve my technical skills. 
 I am looking for a backend developer position.
 The repositories in this profile reflect the fundamental knowledge I have gained through my academic studies and personal projects. Feel free to explore my work.
 
