@@ -16,7 +16,7 @@ The repositories in this profile reflect the fundamental knowledge I have gained
 </p>
 
 <p align="center">My website <a href="https://locnguyen2k2-portfolio.vercel.app/" align="center">here</a></p>
-<p align="center">Currently work on <a href="cjool-admin-dashboard.vercel.app" align="center">ddd-nest-template</a></p>
+<p align="center">Currently work on <a href="https://cjool-admin-dashboard.vercel.app" align="center">ddd-nest-template</a></p>
 
 ### 🛠 &nbsp;Tech Stack
 
